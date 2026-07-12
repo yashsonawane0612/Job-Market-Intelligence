@@ -124,6 +124,36 @@ Job-Market-Intelligence/
 | 🗂️ Dataset Format | CSV |
 | 🔍 Primary Focus | Data Analyst & Data Scientist Roles |
 
+# 📷 Dashboard Preview
+
+## Executive Overview
+
+![Executive Overview](images/overview.png)
+
+---
+
+## Skills Analysis
+
+![Skills Analysis](images/skills-analysis.png)
+
+---
+
+## Salary Analysis
+
+![Salary Analysis](images/salary-analysis.png)
+
+---
+
+## Company Analysis
+
+![Company Analysis](images/company-analysis.png)
+
+---
+
+## Location Analysis
+
+![Location Analysis](images/location-analysis.png)
+
 # 🔍 Key Insights
 
 - 📈 Analyzed **771 job postings** from Indeed India and Naukri.com to identify hiring trends in the Indian data job market.
