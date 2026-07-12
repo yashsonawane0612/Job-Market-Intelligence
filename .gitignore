@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python environment
+.env
+
+# Logs
+*.log
+
+# CSV outputs (optional)
+# Uncomment if you don't want generated files on GitHub
+# data/raw/*.csv
+# data/processed/*.csv
+
+# Power BI temporary files
+*.pbix.autosave
+*.tmp

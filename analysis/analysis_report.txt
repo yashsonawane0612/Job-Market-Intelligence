@@ -1,0 +1,22 @@
+============================================================
+JOB MARKET INTELLIGENCE ANALYSIS REPORT
+============================================================
+
+Total Jobs Analyzed: 771
+Data Sources: Naukri, Indeed
+Analysis Date: 2025-12-14
+
+TOP 10 IN-DEMAND SKILLS:
+----------------------------------------
+Python: 184 jobs (23.9%)
+Sql: 171 jobs (22.2%)
+Excel: 64 jobs (8.3%)
+Power Bi: 106 jobs (13.7%)
+Tableau: 44 jobs (5.7%)
+R: 2 jobs (0.3%)
+Statistics: 32 jobs (4.2%)
+Machine Learning: 202 jobs (26.2%)
+Data Visualization: 38 jobs (4.9%)
+Etl: 17 jobs (2.2%)
+
+============================================================
