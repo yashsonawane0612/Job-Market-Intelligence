@@ -1,7 +1,7 @@
 # 📊 Job Market Intelligence
 
 <p align="center">
-  <img src="Job-Market-Intelligence/images/banner.png" alt="Job Market Intelligence Banner" width="100%">
+  <img src="images/banner.png" alt="Job Market Intelligence Banner" width="100%">
 </p>
 
 <p align="center">
